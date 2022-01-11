@@ -1,6 +1,6 @@
    Hi there👋
-   I am Shubhasri Tadepalli.😇
-   I love learning new things and contributing to open source.😄
+   I am Shubhasri Tadepalli😇.
+   I love learning new things and contributing to open source😄.
 
 - 🙂 I’m interested in Machine Learning and Web development.
 - 🔭 I’m currently working on Full stack development.
