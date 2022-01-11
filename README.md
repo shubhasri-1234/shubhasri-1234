@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full stack development.
 - 🌱 I’m currently learning react.js and java.
 - 🤔 I’m looking for help with react.js.
-- 📫 How to reach me: [linkedin]https://www.linkedin.com/in/shubhasri-tadepalli-458981204/
+- 📫 How to reach me: https://www.linkedin.com/in/shubhasri-tadepalli-458981204/
 
 
 
