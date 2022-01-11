@@ -1,4 +1,4 @@
-   Hi there👋
+   Hi there👋;
    I am Shubhasri Tadepalli😇.
    I love learning new things and contributing to open source😄.
 
