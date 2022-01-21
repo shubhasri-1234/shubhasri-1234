@@ -9,4 +9,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/shubhasri-tadepalli-458981204/
 
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhasri-1234 &theme=radical)
